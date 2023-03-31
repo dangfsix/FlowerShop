@@ -1,2 +1,11 @@
 # FlowerShop
-The user interface for a flower shop website
+
+Đồ án môn học Giao tiếp người–máy
+![Banner](https://user-images.githubusercontent.com/60851390/229032236-ede4bacb-186f-4375-ab09-5f2918fce529.png)
+
+| (1)                                    | (2)                                           | (3)                                           |
+| -------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| <img src="https://user-images.githubusercontent.com/60851390/229032273-7104ecd0-f0e9-41c4-a403-7b5763ae31b3.png" alt="Home" width="200" />  | <img src="https://user-images.githubusercontent.com/60851390/229032281-1a34466b-c909-4e84-8d23-afc92d3328d5.png" alt="Category" width="200" />     | <img src="https://user-images.githubusercontent.com/60851390/229032286-05ad1a40-0a0c-4c3c-89cf-c37e24381993.png" alt="Product" width="200" />      |
+| <img src="https://user-images.githubusercontent.com/60851390/229032287-30b2c353-c845-4e31-ac03-1c6f5d56dba3.png" alt="Cart" width="200" />  | <img src="https://user-images.githubusercontent.com/60851390/229032288-f201535a-50cf-44e0-83ed-87c37976c79d.png" alt="User Profile" width="200" /> | <img src="https://user-images.githubusercontent.com/60851390/229032290-d850a619-29eb-4247-86ab-c4e93e2a7488.png" alt="Address Book" width="200" /> |
+| <img src="https://user-images.githubusercontent.com/60851390/229032293-4d407300-0d63-4be0-969d-bc7ae903b0da.png" alt="Order" width="200" /> | <img src="https://user-images.githubusercontent.com/60851390/229032295-a14b47c5-05cb-4bb3-8dd8-1618b89c3b3c.png" alt="Wishlist" width="200" />     | <img src="https://user-images.githubusercontent.com/60851390/229032296-8994ecc8-8bcf-4ca9-b8b1-a9b81937c82d.png" alt="Setting" width="200" />      |
+| <img src="https://user-images.githubusercontent.com/60851390/229032298-132f4858-f1e1-4d2a-83d3-eb539561c761.png" alt="Login" width="200" /> | <img src="https://user-images.githubusercontent.com/60851390/229032301-97330f8b-ab9b-4afd-b504-4deb311903c7.png" alt="Signup" width="200" />       | <img src="https://user-images.githubusercontent.com/60851390/229032306-b12ac218-35a4-4cf9-bc8f-6a5387614e03.png" alt="About" width="200" />        |
